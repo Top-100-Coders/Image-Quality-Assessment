@@ -5,6 +5,8 @@ This project is a Streamlit web application for assessing and ranking the qualit
 
 try it out: https://image-quality-assessment1.onrender.com
 
+![Alt text](https://i.ibb.co/94GVFvy/Screenshot-2023-11-19-221022.png)
+![Alt text](https://i.ibb.co/BwKkDZM/Screenshot-2023-11-19-221050.png)
 ## Features
 
 * Multi-Image Upload: Users can upload multiple images in common formats (jpg, jpeg, png) for simultaneous assessment.
