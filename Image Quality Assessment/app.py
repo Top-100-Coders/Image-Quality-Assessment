@@ -3,10 +3,10 @@ import os
 import numpy as np
 import streamlit as st
 import openai
-from config import OPENAI_API_KEY
+
 
 # Set your OpenAI API key
-openai.api_key = OPENAI_API_KEY
+openai.api_key = os.getenv('OPENAI_API_KEY')
 
 if openai.api_key is None:
     st.error("OpenAI API key is missing. Set the OPENAI_API_KEY environment variable.")
