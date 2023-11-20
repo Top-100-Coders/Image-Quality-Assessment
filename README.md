@@ -3,7 +3,7 @@
 
 This project is a Streamlit web application for assessing and ranking the quality of uploaded images based on predefined criteria. The app utilizes OpenAI's GPT (Generative Pre-trained Transformer) to generate text descriptions for each image criterion, providing detailed insights into the strengths and weaknesses of the images.
 
-try it out: https://image-quality-assessment1.onrender.com
+try it out: https://image-quality-assessment1.onrender.com/
 
 ![Alt text](https://i.ibb.co/94GVFvy/Screenshot-2023-11-19-221022.png)
 ![Alt text](https://i.ibb.co/BwKkDZM/Screenshot-2023-11-19-221050.png)
